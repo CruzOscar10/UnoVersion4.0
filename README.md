@@ -163,5 +163,5 @@ Las pruebas implementadas garantizan su correcto funcionamiento y permiten detec
 ---
 
 ## 👨‍💻 Autor
-Cruz mejia oscar Adolfo
+Cruz Mejia Oscar Adolfo,
 Ordaz Reyes Evelyn Julieta
