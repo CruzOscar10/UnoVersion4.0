@@ -84,17 +84,6 @@ El plan de pruebas incluyó:
 
 ---
 
-## 🐞 Bugs Encontrados
-
-| ID | Descripción                           |
-| -- | ------------------------------------- |
-| B1 | Bot fallaba si no había carta en mesa |
-| B2 | Doble avance de turno                 |
-| B3 | Métodos inexistentes en pruebas       |
-| B4 | Acceso inválido a mano                |
-| B5 | Mazo vacío sin control adecuado       |
-
----
 
 ## 🔧 Correcciones Realizadas
 
